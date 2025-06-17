@@ -1,0 +1,3 @@
+"""
+Ghost Chase game package.
+"""
