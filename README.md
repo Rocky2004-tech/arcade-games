@@ -14,7 +14,7 @@ The Arcade Game Hub includes the following games:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/arcade-games.git
+   git clone https://github.com/Rocky2004-tech/arcade-games.git
    cd arcade-games
    ```
 
